@@ -7,5 +7,4 @@ scikit-learn
 gunicorn
 Jinja2
 matplotlib
-pickle
 Werkzeug
